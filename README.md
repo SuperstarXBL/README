@@ -1,29 +1,30 @@
 from GitHub import ReadMe
 
-class Superstar(ReadMe):
-    "https://github.com/SuperstarXBL/README"
+class Dropout(ReadMe):
+    "/Dropout1337/Dropout1337/README.md"
 
     def __init__(self):
-        self.username = "Superstar"
+        self.username = "Dropout"
         self.contacts = {
-            "Discord": "Superstar#1282",
-            "Telegram": Promotify
+            "Discord": "dropout#0420",
+            "Telegram": None
         }
         self.alises = [
-            "Superstar"
+            "Dropout",
+            "Dropout1337"
         ]
-        self.location = "Ireland, United Kingdom"
-        self.age = "18, Born 9 April 2003"
+        self.location = "New Zealand, Hastings"
+        self.age = "13, Born 15 February 2008"
         self.occupation = "Freelance Developer"
         self.projects = {
             "public": {
                   "total": 40,
-                  "location": "https://github.com/SuperstarXBL?tab=repositories"
+                  "location": "github.com/dropout1337?tab=repositories"
             },
             "paid": {
                 "total": 23,
                 "earnings": 3500,
-                "location": "Unknown"
+                "location": "unknown"
             }
         }
-        self.operating_system = "Windows"
+        self.operating_system = "Arch, Linux"
