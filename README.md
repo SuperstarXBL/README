@@ -1,7 +1,7 @@
 from GitHub import ReadMe
 
 class Superstar(ReadMe):
-    "/Dropout1337/Dropout1337/README.md"
+    "https://github.com/SuperstarXBL/README"
 
     def __init__(self):
         self.username = "Superstar"
