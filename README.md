@@ -1,9 +1,7 @@
-#ss
-
 from GitHub import ReadMe
 
 class Superstar(ReadMe):
-    "/Superstar/Superstar/README.md"
+    "/Dropout1337/Dropout1337/README.md"
 
     def __init__(self):
         self.username = "Superstar"
